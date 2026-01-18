@@ -19,7 +19,7 @@ const grade12Data = [
     formula: "HCOOCH3",
     name: "Methyl methanoate",
     type: "Ester",
-    commonName: "Methyl formate",
+    commonName: "Methyl formate, chất khí",
     chapter: "Chương 1: Ester-Lipid",
   },
   {
